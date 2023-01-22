@@ -2,7 +2,7 @@ import java.lang.*;
 import java.util.*;
 import java.util.Date;
 
-class main
+class Main
 {
     public static void main(String args[])
     {   
