@@ -24,6 +24,8 @@ public class Main
                 if(attempt == 5) 
                 {
                     System.out.println("You have exceeded the maximum attempt. Try Again!!!");
+                      System.out.prinltln(" ");
+                      System.out.println("The Secret Number is..."+secretNumber+"");
                     break;
                 }
                 attempt++;
